@@ -27,6 +27,6 @@ To the design a deliberate bug (OR logic instead of AND) can be added to demonst
 
 ## 👩‍💻 Author
 
-**Ahalya Sivakumar**  
+**Ahalya S Kumar**  
 Design Verification Engineer  
 SystemVerilog | SVA | Functional Coverage | UVM (Learning)
